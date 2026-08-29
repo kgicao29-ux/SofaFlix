@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://sofaflix.shop/images/logo.png",
-        "fileHash": "sha256-5410ea75a390236ad93991c2f60c40aab9fa27d83861604df446744d60ccc38e",
+        "fileHash": "sha256-4b01dad87ef8a9c965dd44892de63a7d9717a65d614a0a108fad94b68c1c8351",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/kgicao29-ux/SofaFlix",
-        "fileSize": 44656,
+        "fileSize": 44316,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -14,9 +14,9 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "SofaFlix",
-        "description": "SofaFlix (sofaflix.shop) — phim vietsub HD/4K: phim lẻ, phim bộ, hoạt hình, TV shows. Phát trực tiếp HLS: StreamC giải mã AES-GCM tại chỗ + kkphim/ophim/vsmov.",
+        "description": "SofaFlix (sofaflix.shop) — phim vietsub HD/4K: phim lẻ, phim bộ, hoạt hình. Phát trực tiếp HLS ( StreamC giải mã AES-GCM tại chỗ, kkphim/ophim/vsmov).",
         "url": "https://raw.githubusercontent.com/kgicao29-ux/SofaFlix/builds/SofaFlix.cs3",
         "name": "SofaFlix"
     }
