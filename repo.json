@@ -1,0 +1,8 @@
+{
+  "name": "SofaFlix",
+  "description": "SofaFlix (sofaflix.shop) CloudStream extension — phim vietsub HD/4K",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kgicao29-ux/SofaFlix/builds/plugins.json"
+  ]
+}
